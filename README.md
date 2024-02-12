@@ -1,6 +1,13 @@
 # DevCollab
 DevCollab is a web application designed to facilitate collaboration among users on a single project. It allows users to perform CRUD (Create, Read, Update, Delete) operations seamlessly. This README file serves as a guide to understanding the application's features, technologies used, and how to set it up.
 
+
+# Video Link
+https://drive.google.com/file/d/1hRd55CvKCt6L6namLhTuOV1OX30yzjf9/view?usp=sharing
+
+# Live
+
+
 # Features
 Collaboration: Multiple users can work on the same project simultaneously.
 CRUD Operations: Users can create, read, update, and delete project data.
